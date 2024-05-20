@@ -1,0 +1,10 @@
+0 - non-damaged
+1 - total loss
+2 - scratch
+3 - door dent
+4 - broken headlamp
+5 - broken tail lamp
+6 - tier crack
+7 - glass shatter
+8 - bumper damage(crack-dent)
+9 - bonet dent
